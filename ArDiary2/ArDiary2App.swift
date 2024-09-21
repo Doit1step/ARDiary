@@ -9,7 +9,7 @@ struct ArDiary2App: App {
             PrimaryWindowView()
                 .environment(model)
                 .frame(
-                    minWidth: 501, maxWidth: 500,
+                    minWidth: 500, maxWidth: 500,
                     minHeight: 1300, maxHeight: 1300)
         }
         .defaultSize(CGSize(width: 500, height: 1300))
