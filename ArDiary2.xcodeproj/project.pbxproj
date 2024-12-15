@@ -17,6 +17,7 @@
 		286093D82C9B2F2900D0F341 /* SecondaryWindowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 286093D72C9B2F2900D0F341 /* SecondaryWindowView.swift */; };
 		286093DA2C9B2F3C00D0F341 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 286093D92C9B2F3C00D0F341 /* ViewModel.swift */; };
 		286093DC2C9B367800D0F341 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 286093DB2C9B367800D0F341 /* NetworkManager.swift */; };
+		28F86AC02D0F1DFB00274A9A /* _3DDiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F86ABF2D0F1DF200274A9A /* _3DDiaryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		286093D72C9B2F2900D0F341 /* SecondaryWindowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondaryWindowView.swift; sourceTree = "<group>"; };
 		286093D92C9B2F3C00D0F341 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		286093DB2C9B367800D0F341 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		28F86ABF2D0F1DF200274A9A /* _3DDiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _3DDiaryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 		286093B42C9B2EEB00D0F341 /* ArDiary2 */ = {
 			isa = PBXGroup;
 			children = (
+				28F86ABF2D0F1DF200274A9A /* _3DDiaryView.swift */,
 				286093B92C9B2EEB00D0F341 /* ArDiary2App.swift */,
 				286093BB2C9B2EEB00D0F341 /* ContentView.swift */,
 				286093BD2C9B2EED00D0F341 /* Assets.xcassets */,
@@ -226,6 +229,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28F86AC02D0F1DFB00274A9A /* _3DDiaryView.swift in Sources */,
 				286093DC2C9B367800D0F341 /* NetworkManager.swift in Sources */,
 				286093DA2C9B2F3C00D0F341 /* ViewModel.swift in Sources */,
 				286093D62C9B2F1300D0F341 /* PrimaryWindowView.swift in Sources */,
